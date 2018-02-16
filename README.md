@@ -1,3 +1,3 @@
 # gitskills
 
-Creating a new branch is quick & simple ddfs.
+Creating the  new branch is quick & simple ddfs.
